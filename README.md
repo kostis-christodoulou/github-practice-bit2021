@@ -26,6 +26,11 @@
 # Class GitHub Table with all portfolio websites 
 
 
-|No | Name                  | Study Group   | GitHub ID            |Github Repo for portfolio website                      |Netlify website address              |Date Added     |  
+|No | boukaryk                | Study Group   | GitHub ID            |Github Repo for portfolio website                      |Netlify website address              |Date Added     |  
 |:---|:----------------------|:--------------|:---------------------|:------------------------------------------------------|:------------------------------------|:-----------------------| 
 |00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
+reate your own GitHub profile/ID (use a name appropriate for job applications) <https://happygitwithr.com/github-acct.html>
+- Once you have a Github account, sign up for an account at <https://app.netlify.com/signup> using your Github account
+- Create a new public repo for your portfolio website & initialize it with a "readme" file.
+- Turn your repo into a default website, using the steps outlined in <https://bit-2021.netlify.app/assignment/01-project/>
+       - modify content if you like, but for now it's fine to use the theme content provided and just c
