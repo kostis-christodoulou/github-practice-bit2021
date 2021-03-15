@@ -35,6 +35,6 @@
 |04|axeljoachimzongo   | none     | axelnig |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
 |05|KABORE W FLORENTIN   | none     | florentink|<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
 |06|Yameogo Philippe   | none     | philippe9-coder |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
-|07|Tonde Salif   | none     | Tonde-salif |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
+|07|Tonde Salif   | none     | Tonde-salif |<https://github.com/Tonde-salif/mywebtask1.1>   |<https://tondefamily.netlify.app//>        |2020-08-14 
 |08|Semde Alexandre  | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
 |09|zongo celestin  | none     | celestincel |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
