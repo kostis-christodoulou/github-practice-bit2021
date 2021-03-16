@@ -42,4 +42,4 @@
 |11|KABORE Florentin  | none     | florentink |https://github.com/florentink/website7.git  |https://florentinweb7.netlify.app/      |2020-08-25 
 |12|  Ouedraogo Assami |none|AssamiOuedraogo|https://github.com/AssamiOuedraogo/website.git|https://ouedraogoassami1.netlify.app|16-03-2021
 |13| zongo j axel | none | axelnig |https://github.com/axelnig/site.git | https://laxelebon.netlify.app | 16-03-2021
-|14|KABORE Boukary | none     | boukaryk|<https://github.com/boukaryk/mywebsite1>   |<https://quincaillerie.netlify.app/>        |2020-08-25 
+|14|KABORE Boukary | none     | boukaryk|<https://github.com/boukaryk/mywebsite1>   |<https://quincaillerie.netlify.app/>        |2021-03-16 
