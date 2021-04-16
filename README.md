@@ -29,7 +29,7 @@
 |No | Name                  | Study Group   | GitHub ID            |Github Repo for portfolio website                      |Netlify website address              |Date Added     |  
 |:---|:----------------------|:--------------|:---------------------|:------------------------------------------------------|:------------------------------------|:-----------------------| 
 |00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
-|01|kabore davvid   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/websitehomework>   | https://wendyam.netlify.app/        |2021-03-16 
+|01|kabore davvid   | none     | kabore108 |<https://github.com/kabore108/websitehomework>   | https://wendyam.netlify.app/        |2021-03-16 
 |02|ZOMA W Rodrigue   | none     | rodriguezoma |<https://github.com/rodriguezoma/my_website_99>   |<https://rodriguezoma-website.netlify.app/>        |2021-03-16 
 |03|ZONGO W Simeon  | none     | 73Simeon |<https://github.com/73Simeon/perso_portfolio>   |<https://wsimeonsite.netlify.app/>        |2021-03-14
 |04|axeljoachimzongo   | none     | axelnig |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
