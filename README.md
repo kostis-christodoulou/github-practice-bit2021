@@ -36,7 +36,7 @@
 |05|KABORE W FLORENTIN   | none     | florentink|<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
 |06|Yameogo Philippe   | none     | philippe9-coder |<https://github.com/Philippe9-coder/My_Website_99>   |<https://philippewebsite99.netlify.app/>        |2021-03-15 
 |07|Tonde Salif   | none     | Tonde-salif |<https://github.com/Tonde-salif/mywebtask1.1>   |<https://tondefamily.netlify.app//>        |2020-08-14 
-|08|Semde Alexandre  | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
+|08|Semde Alexandre  | none     | alexe|<https://github.com/Semdealexandre2/site>   |<https://https://semdealexweb.netlify.app//>        |2020-08-25 
 |09|zongo celestin  | none     | celestincel |<https://github.com/celestincel/my_website>   |<https://celmywebsite.netlify.app/>        |2020-03-16 
 |10|Bakouan Youba | none     | Y0uBs0N |<https://github.com/Y0uBs0N/Youbsonwebsite>   |<https://nwebsite.netlify.app/>        |2021-03-15 
 |11|KABORE Florentin  | none     | florentink |https://github.com/florentink/website7.git  |https://florentinweb7.netlify.app/      |2021-03-15 
