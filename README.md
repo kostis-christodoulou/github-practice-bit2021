@@ -44,3 +44,4 @@
 |13| zongo j axel | none | axelnig |https://github.com/axelnig/site.git | https://laxelebon.netlify.app | 16-03-2021
 |14|KABORE Boukary | none     | boukaryk|<https://github.com/boukaryk/mywebsite1>   |<https://quincaillerie.netlify.app/>        |2021-03-16 
 |15|Semde Alexandre  | none     | Alexander |<https://github.com/Semdealexandre2/site>   |<https://https://semdealexweb.netlify.app//>        |2021-04-20
+|16|Jose Laffitte  | none     | joseilaffitte |https://github.com/joseilaffitte   |https://joseswonderfulwebsite.netlify.app/        |2021-09-01
